@@ -16,12 +16,6 @@ Helps users understand threats without actually stealing anything
 
 Makes your friends think you’re a hacker… but in a friendly, legal way
 
-Installation
-git clone https://github.com/yourusername/tinyeyes.git
-cd tinyeyes
-pip install -r requirements.txt
-python main.py
-
 
 Disclaimer: Works only on your own computer. Seriously, don’t try this on someone else’s machine. 👀
 
